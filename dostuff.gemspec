@@ -3,9 +3,9 @@ require File.expand_path('../lib/dostuff/version', __FILE__)
 
 Gem::Specification.new do |gem|
   gem.authors       = ["JGW Maxwell"]
-  gem.email         = ["jgwmaxwell@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.email         = ["opensource@jgwmaxwell.com"]
+  gem.description   = %q{Do stuff will do stuff - because it is that awesome.}
+  gem.summary       = %q{Dostuff. Talk like a Pirate. Oh yeah.}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($\)
